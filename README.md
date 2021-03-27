@@ -4,17 +4,12 @@ A fun random messages generating script which encorages to not give up.
 
 ## Table of Content
 
-- [General Information](https://github.com/CustomHaven/mixed-messages#General-Information)
-
-- [Technologies](https://github.com/CustomHaven/mixed-messages#Technologies)
-
-- [Launch](https://github.com/CustomHaven/mixed-messages#Launch)
-
-- [Status](https://github.com/CustomHaven/mixed-messages#Status)
-
-- [Inspiration](https://github.com/CustomHaven/mixed-messages#Inspiration)
-
-- [Contact](https://github.com/CustomHaven/mixed-messages#Contact)
+- [General Information](https://github.com/CustomHaven/mixed-messages#general-information)
+- [Technologies](https://github.com/CustomHaven/mixed-messages#technologies)
+- [Launch](https://github.com/CustomHaven/mixed-messages#launch)
+- [Status](https://github.com/CustomHaven/mixed-messages#status)
+- [Inspiration](https://github.com/CustomHaven/mixed-messages#inspiration)
+- [Contact](https://github.com/CustomHaven/mixed-messages#contact)
 
 ## General Information
 
@@ -37,7 +32,7 @@ To run this project, install it locally using node and the file local:
 
 ## Status
 
-> Project is: _finished_
+> Project is: _completed_
 
 ## Inspiration
 
